@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/nomad/Pictures/wllppr3.jpg' 
